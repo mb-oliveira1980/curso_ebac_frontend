@@ -1,0 +1,47 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: black;
+}
+
+section {
+    text-align: center;
+    background-color: rgb(206, 205, 205);
+    margin-right: 220px;
+    margin-left: 220px;
+    height: 1000px;
+}
+
+h1 {
+    padding-top: 300px;
+    font-size: 40px;
+}
+
+form {
+    padding: 20px;
+}
+
+input {
+    padding: 8px;
+    font-size: 20px;
+}
+
+button {
+    padding: 8px;
+    font-size: 20px;
+}
+
+ul li {
+    font-size: 30px;
+    cursor: pointer;
+}
+
+
+
+
+
+
