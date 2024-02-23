@@ -6,9 +6,10 @@ $("form").on('submit',function(evento){
 
     $(novaTarefa).appendTo('ul')
     $("#nome-tarefa").val("")
+
+    $("li").click(function(){
+        $(this).css("text-decoration", "line-through")
+    })
 })
 
 
-$("#lista-tarefas").click(function(){
-    $("li").css("text-decoration", "line-through")
-})
