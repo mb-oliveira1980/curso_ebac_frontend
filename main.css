@@ -1,0 +1,63 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: rgb(167, 167, 167);
+}
+
+header {
+    background-color: rgba(0, 99, 247, 0.473);
+    padding: 10px;
+    max-width: 50%;
+    margin-left: 500px;
+    border-radius: 10px;
+    
+}
+
+header h1 {
+    font-size: 40px;
+    margin-bottom: 20px;
+    text-align: center;
+    color: #fff;
+}
+
+form input {
+    display: block;
+    margin-bottom: 16px;
+    width: 70%;
+    padding: 10px;
+    border-radius: 10px;
+    font-size: 15px;
+}
+
+form label {
+    margin-bottom: 20px;
+    font-size: 20px;
+}
+
+section {
+    background-color: rgb(138, 179, 233);
+    max-width: 50%;
+    padding: 100px;
+    margin-left: 500px;
+    margin-top: 50px;
+    margin-bottom: 60px;
+    border-radius: 10px;
+}
+
+button {
+    padding: 10px;
+    font-size: 20px;
+    border-radius: 10px;
+    margin-left: 650px;
+}
+
+#telefone,
+#cpf,
+#cep {
+    width: 30%;
+}
+
