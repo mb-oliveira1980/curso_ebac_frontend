@@ -1,0 +1,21 @@
+h1 {
+    text-align: center;
+}
+
+.row {
+    margin-top: 32px;
+}
+
+body {
+    background-color: rgb(207, 206, 206);
+}
+
+.col form{
+    max-width: 50%;
+    margin-left: 300px;
+    margin-top: 100px;
+}
+
+button {
+    margin-top: 16px;
+}
